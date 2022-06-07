@@ -1,0 +1,15 @@
+{
+   "liveSassCompile.settings.autoprefix": null,
+   "liveSassCompile.settings.forceBaseDirectory": "/src/scss",
+
+   "liveSassCompile.settings.formats": [
+      {
+         "format": "expanded",
+         "extensionName": ".css",
+         // this works with scssHandler.js
+         // "savePath": "~/css",
+         
+         "savePath": "/dist/css",
+      }
+   ]
+}
